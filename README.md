@@ -9,5 +9,6 @@ File 3 - mysql.sh installs and setups up the mysql server.
 File 4 - php.sh installs and configures PHP.
 File 5 - lamp.sh is the main execution script that calls all the script above to setup the LAMP server.
 
+
 There is the projectlamp.conf file which contains the Virtual Host configuration settings for the Apache 2 server.
 
