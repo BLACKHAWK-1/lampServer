@@ -12,3 +12,6 @@ chmod +x ./update.sh ./apache2.sh ./mysql.sh ./php.sh
 ./apache2.sh
 ./mysql.sh
 ./php.sh
+
+
+echo "LAMP webserver is up and running......"
