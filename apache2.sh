@@ -5,3 +5,4 @@ echo
 echo "Apache 2 Server Successfully Installed"
 clear
 sudo systemctl status apache2
+
