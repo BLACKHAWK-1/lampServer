@@ -1,17 +1,23 @@
-# **LAMP SERVER PROJECT**
+# **LAMP SERVER PROJECT** 
 
 The LAMP Server is one of the projects that I will be implementing from the lists of Darey.io projects. The guide below shows how to setup your own LAMP Server on your Linux terminal.
 
-* Table Of Contents
+**Table Of Contents**
 
-1. Introduction
-2. Environment Setup
+1. [Introduction](#introduction)
+2. [Environment Setup](#environment-setup)
     - AWS Setup
     - GitHub Setup
 3. apache2.sh file
 4. mysql.sh file
 5. php.sh file
 6. main.sh file
+
+## Introduction
+
+## Environment Setup 
+
+
 
 
 
